@@ -5,7 +5,7 @@ import { Subscription, map } from 'rxjs';
 import { Weather } from './models';
 
 const WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather'
-const WEATHER_API_KEY = 'c5544a7b4dfb38b9f654716b6295032b'
+const WEATHER_API_KEY = 'weather api key here'
 
 @Component({
   selector: 'app-root',
